@@ -26,6 +26,7 @@
 #### Basic Widgets
 * [Widget of the Week playlist](https://youtube.com/playlist?list=PLjxrf2q8roU23XGwz3Km7sQZFTdB996iG)
 * [Package of the Week playlist](https://youtube.com/playlist?list=PLjxrf2q8roU1quF6ny8oFHJ2gBdrYN_AK)
+* [All Flutter Widgets](https://youtube.com/playlist?list=PL82uaKJraAILRBFE1XhCyfvu-Fclc6vv1&si=m5CL8oFoPPu7_LED) - Playlist created by ***Flutter Mapp*** which contains an overview of all the existing Flutter Widgets
 * https://flutter.dev/docs/development/ui/widgets-intro
 * http://material.io
 * https://developer.apple.com/design/
